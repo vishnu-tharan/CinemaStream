@@ -2,6 +2,15 @@
 
 Movie discovery and personal collections built with Expo 54, React Native, Expo Router, and Firebase.
 
+
+## Screenshots
+
+![CinemaStream desktop welcome screen](docs/screenshots/welcome-desktop.jpg)
+
+[View all desktop and mobile screenshots](docs/screenshots/README.md) · [Download the project cover](docs/screenshots/welcome-desktop.jpg) · [Sign-in preview](docs/screenshots/login-desktop.jpg)
+
+The gallery includes discovery, search, movie details, guest sign-in and password recovery screens. These are local prototype captures; some pictured features may be ahead of the published app. Original JPG files are kept in `docs/screenshots/` for portfolio use.
+
 ## Features
 
 - Responsive charcoal and amber design, custom icons and splash artwork.
