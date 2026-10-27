@@ -1,0 +1,222 @@
+[
+  {
+    "movieId": 1,
+    "moviePage": "https://www.themoviedb.org/movie/27205",
+    "poster": "https://image.tmdb.org/t/p/w780/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=Qwe6qXFTdgc",
+    "trailerTitle": "Inception | Digital Trailer | Warner Bros. Entertainment",
+    "publisher": "Warner Bros. Entertainment",
+    "channel": "https://www.youtube.com/@warnerbrosentertainment",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 2,
+    "moviePage": "https://www.themoviedb.org/movie/157336",
+    "poster": "https://image.tmdb.org/t/p/w780/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "trailerTitle": "Interstellar - Trailer - Official Warner Bros. UK",
+    "publisher": "Warner Bros. UK & Ireland",
+    "channel": "https://www.youtube.com/@warnerbrosuktrailers",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 3,
+    "moviePage": "https://www.themoviedb.org/movie/19995",
+    "poster": "https://image.tmdb.org/t/p/w780/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "trailerTitle": "Avatar | Official Trailer (HD) | 20th Century FOX",
+    "publisher": "20th Century Studios",
+    "channel": "https://www.youtube.com/@20thCenturyStudios",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 4,
+    "moviePage": "https://www.themoviedb.org/movie/155",
+    "poster": "https://image.tmdb.org/t/p/w780/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=_PZpmTj1Q8Q",
+    "trailerTitle": "The Dark Knight | Original Theatrical Trailer | Warner Bros. Rewind",
+    "publisher": "Warner Bros. Rewind",
+    "channel": "https://www.youtube.com/@WarnerBrosRewind",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 5,
+    "moviePage": "https://www.themoviedb.org/movie/597?language=en-US",
+    "poster": "https://image.tmdb.org/t/p/w780/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=oHY7D7K58BM",
+    "trailerTitle": "Titanic 25th Anniversary | Official Trailer | In Theatres February 10th",
+    "publisher": "Paramount Pictures",
+    "channel": "https://www.youtube.com/@paramountpictures",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 6,
+    "moviePage": "https://www.themoviedb.org/movie/603",
+    "poster": "https://image.tmdb.org/t/p/w780/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=D4eJx-0g3Do",
+    "trailerTitle": "The Matrix | Original Theatrical Trailer | World of Warner Bros.",
+    "publisher": "Warner Bros. Rewind",
+    "channel": "https://www.youtube.com/@WarnerBrosRewind",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 7,
+    "moviePage": "https://www.themoviedb.org/movie/98",
+    "poster": "https://image.tmdb.org/t/p/w780/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=P5ieIbInFpg",
+    "trailerTitle": "GLADIATOR | Official Trailer | Paramount Movies",
+    "publisher": "Paramount Movies",
+    "channel": "https://www.youtube.com/@paramountmovies",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 8,
+    "moviePage": "https://www.themoviedb.org/movie/299534?language=en-US",
+    "poster": "https://image.tmdb.org/t/p/w780/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "trailerTitle": "Marvel Studios' Avengers: Endgame - Official Trailer",
+    "publisher": "Marvel Entertainment",
+    "channel": "https://www.youtube.com/@marvel",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 9,
+    "moviePage": "https://www.themoviedb.org/movie/475557",
+    "poster": "https://image.tmdb.org/t/p/w780/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+    "trailerTitle": "JOKER - Final Trailer - Now Playing In Theaters",
+    "publisher": "Warner Bros.",
+    "channel": "https://www.youtube.com/@WarnerBros",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 10,
+    "moviePage": "https://www.themoviedb.org/movie/634649",
+    "poster": "https://image.tmdb.org/t/p/w780/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+    "trailerTitle": "SPIDER-MAN: NO WAY HOME - Official Trailer (HD)",
+    "publisher": "Sony Pictures Entertainment",
+    "channel": "https://www.youtube.com/@sonypictures",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 11,
+    "moviePage": "https://www.themoviedb.org/movie/278",
+    "poster": "https://image.tmdb.org/t/p/w780/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+    "trailerTitle": "The Shawshank Redemption | Official Trailer | Warner Bros. Entertainment",
+    "publisher": "Warner Bros. Entertainment",
+    "channel": "https://www.youtube.com/@warnerbrosentertainment",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 12,
+    "moviePage": "https://www.themoviedb.org/movie/284054",
+    "poster": "https://image.tmdb.org/t/p/w780/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+    "trailerTitle": "Marvel Studios' Black Panther - Official Trailer",
+    "publisher": "Marvel Entertainment",
+    "channel": "https://www.youtube.com/@marvel",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 13,
+    "moviePage": "https://www.themoviedb.org/movie/330457",
+    "poster": "https://image.tmdb.org/t/p/w780/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
+    "trailerTitle": "Frozen 2 Official Trailer",
+    "publisher": "Walt Disney Animation Studios",
+    "channel": "https://www.youtube.com/@disneyanimation",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 14,
+    "moviePage": "https://www.themoviedb.org/movie/420818",
+    "poster": "https://image.tmdb.org/t/p/w780/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
+    "trailerTitle": "The Lion King Official Trailer",
+    "publisher": "Disney",
+    "channel": "https://www.youtube.com/@Disney",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 15,
+    "moviePage": "https://www.themoviedb.org/movie/693134",
+    "poster": "https://image.tmdb.org/t/p/w780/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "trailerTitle": "Dune: Part Two | Official Trailer",
+    "publisher": "Warner Bros.",
+    "channel": "https://www.youtube.com/@WarnerBros",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 16,
+    "moviePage": "https://www.themoviedb.org/movie/872585",
+    "poster": "https://image.tmdb.org/t/p/w780/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+    "trailerTitle": "Oppenheimer | Official Trailer",
+    "publisher": "Universal Pictures",
+    "channel": "https://www.youtube.com/@UniversalPictures",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 17,
+    "moviePage": "https://www.themoviedb.org/movie/346698",
+    "poster": "https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+    "trailerTitle": "Barbie | Main Trailer",
+    "publisher": "Warner Bros.",
+    "channel": "https://www.youtube.com/@WarnerBros",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 18,
+    "moviePage": "https://www.themoviedb.org/movie/1022789",
+    "poster": "https://image.tmdb.org/t/p/w780/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=LEjhY15eCx0",
+    "trailerTitle": "Inside Out 2 | Official Trailer",
+    "publisher": "Pixar",
+    "channel": "https://www.youtube.com/@pixar",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 19,
+    "moviePage": "https://www.themoviedb.org/movie/438631",
+    "poster": "https://image.tmdb.org/t/p/w780/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+    "trailerTitle": "Dune | Official Main Trailer",
+    "publisher": "Warner Bros.",
+    "channel": "https://www.youtube.com/@WarnerBros",
+    "checkedOn": "2026-10-14"
+  },
+  {
+    "movieId": 20,
+    "moviePage": "https://www.themoviedb.org/movie/414906",
+    "poster": "https://image.tmdb.org/t/p/w780/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "posterWidth": 780,
+    "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "trailerTitle": "THE BATMAN – Main Trailer",
+    "publisher": "Warner Bros.",
+    "channel": "https://www.youtube.com/@WarnerBros",
+    "checkedOn": "2026-10-14"
+  }
+]
