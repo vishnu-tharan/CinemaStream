@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "CinemaStream",
+    "slug": "CinemaStream",
+    "version": "1.0.0",
+    "icon": "./assets/images/cinema-icon.png",
+    "orientation": "portrait",
+    "scheme": "cinemastream",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/cinema-adaptive.png",
+        "backgroundColor": "#0B0D12"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/images/cinema-favicon.png",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/cinema-splash.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#0B0D12",
+          "dark": {
+            "backgroundColor": "#0B0D12"
+          }
+        }
+      ],
+      "expo-font",
+      "expo-image"
+    ],
+    "experiments": {
+      "reactCompiler": true
+    },
+    "backgroundColor": "#0B0D12"
+  }
+}

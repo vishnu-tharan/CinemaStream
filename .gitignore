@@ -1,0 +1,23 @@
+# Dependencies and generated builds
+node_modules/
+.expo/
+dist/
+web-build/
+/android/
+/ios/
+
+# Local settings, logs and credentials
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*.pem
+*.key
+*.p12
+*.p8
+*.jks
+*.mobileprovision
+*service-account*.json
+*serviceAccount*.json
+credentials.json
